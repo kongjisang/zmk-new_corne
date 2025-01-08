@@ -79,8 +79,8 @@
             display-name = "SYMBOL";
             bindings = <
 &trans  &kp EXCL      &kp AT        &kp HASH   &kp DLLR   &kp PRCNT                                &mmv MOVE_UP                     &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR  &kp RPAR  &kp BSPC
-&trans  &bt BT_CLR    &mkp LCLK     &mkp MCLK  &mkp RCLK  &mkp MB4                 &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp MINUS  &kp EQUAL  &kp BSLH   &kp LBRC  &kp RBRC  &kp GRAVE
-&trans  &out OUT_USB  &out OUT_BLE  &none      &none      &mkp MB5   &kp K_MUTE                    &mmv MOVE_DOWN                   &kp UNDER  &kp PLUS   &kp PIPE   &kp LBKT  &kp RBKT  &kp TILDE
+&trans  &bt BT_CLR    &mkp LCLK     &mkp MCLK  &mkp RCLK  &mkp MB4                 &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp PLUS   &kp MINUS  &kp BSLH   &kp LBRC  &kp RBRC  &kp GRAVE
+&trans  &out OUT_USB  &out OUT_BLE  &none      &none      &mkp MB5   &kp K_MUTE                    &mmv MOVE_DOWN                   &kp EQUAL  &kp UNDER  &kp PIPE   &kp LBKT  &kp RBKT  &kp TILDE
                                     &trans     &trans     &kp SPACE                                                                 &kp RET    &trans     &trans
             >;
 
