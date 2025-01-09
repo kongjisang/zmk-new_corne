@@ -20,7 +20,7 @@ layers:
   - F
   - G
   - $$mdi:arrow-left-bold$$
-  - {t: '$$mdi:backup-restore$$', type: bootloader}
+  - LOCK
   - $$mdi:arrow-right-bold$$
   - H
   - J
