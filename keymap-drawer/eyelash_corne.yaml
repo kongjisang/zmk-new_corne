@@ -20,7 +20,7 @@ layers:
   - F
   - G
   - $$mdi:arrow-left-bold$$
-  - LOCK
+  - BT CLR ALL
   - $$mdi:arrow-right-bold$$
   - H
   - J
