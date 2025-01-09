@@ -20,7 +20,7 @@ layers:
   - F
   - G
   - $$mdi:arrow-left-bold$$
-  - BT CLR ALL
+  - {t: '$$mdi:backup-restore$$', type: bootloader}
   - $$mdi:arrow-right-bold$$
   - H
   - J
